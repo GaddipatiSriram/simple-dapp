@@ -1,4 +1,3 @@
 # Building Dapp
 
-cd twins
-npm install
+cd twins && npm install
