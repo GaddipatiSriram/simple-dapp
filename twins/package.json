@@ -1,0 +1,22 @@
+{
+  "name": "twins",
+  "version": "1.0.0",
+  "description": "Azure Functions sample for the Serverless framework",
+  "scripts": {
+    "test": "echo \"No tests yet...\"",
+    "start": "func host start",
+    "build": "node build.js"
+  },
+  "keywords": [
+    "azure",
+    "serverless"
+  ],
+  "dependencies": {
+    "json2yaml": "1.1.0",
+    "serverless-scriptable-plugin": "1.0.2",
+    "web3": "1.2.1"
+  },
+  "devDependencies": {
+    "serverless-azure-functions": "0.7.0"
+  }
+}

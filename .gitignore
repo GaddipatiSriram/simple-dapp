@@ -1,0 +1,7 @@
+#NPM
+twins/node_modules
+env.bash
+
+#IDE Related Files
+.vscode
+.DS_Store
